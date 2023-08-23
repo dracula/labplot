@@ -1,20 +1,20 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [LabPlot](https://labplot.kde.org/)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [LabPlot](https://labplot.kde.org/).
 
-![Screenshot](./screenshot.png)
+![Screenshot](/img/Screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/labplot](https://draculatheme.com/labplot).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) | [![Lucas de França](https://github.com/luxonauta.png?size=100)](https://github.com/luxonauta) |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               | [Lucas de França](https://github.com/luxonauta)                                               |
+| [![Chrismettal](https://github.com/chrismettal.png?size=100)](https://github.com/chrismettal)    |
+| ------------------------------------------------------------------------------------------------ |
+| [Chrismettal](https://github.com/chrismettal)                                                    |
 
 ## Community
 
