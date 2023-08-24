@@ -6,11 +6,11 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/labplot](https://draculatheme.com/labplot).
+All instructions can be found at [draculatheme.com/labplot](https://draculatheme.com/labplot). (As wall as in ``./INSTALL.md`)
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/gitlab/graphs/contributors).
 
 | [![Chrismettal](https://github.com/chrismettal.png?size=100)](https://github.com/chrismettal)    |
 | ------------------------------------------------------------------------------------------------ |
