@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/labplot](https://draculatheme.com/labplot). (As wall as in [`./INSTALL.md`](https://github.com/dracula/labplot/blob/main/INSTALL.md))
+All instructions can be found at [draculatheme.com/labplot](https://draculatheme.com/labplot). (As well as in [`./INSTALL.md`](https://github.com/dracula/labplot/blob/main/INSTALL.md))
 
 ## Team
 
