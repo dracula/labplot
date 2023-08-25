@@ -2,11 +2,11 @@
 
 > A dark theme for [LabPlot](https://labplot.kde.org/).
 
-![Screenshot](/img/Screenshot.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/labplot](https://draculatheme.com/labplot). (As wall as in ``./INSTALL.md`)
+All instructions can be found at [draculatheme.com/labplot](https://draculatheme.com/labplot). (As wall as in [`./INSTALL.md`](https://github.com/dracula/labplot/blob/main/INSTALL.md))
 
 ## Team
 
