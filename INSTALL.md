@@ -5,12 +5,11 @@
 Theming the whole application consists of 3 parts:
 
 - Worksheet theme (The actual plot area. How your plots look like when published).
-  - This has been merged into the LabPlot source and is included in every installation starting with LabPlot version `2.11.0`, Commit `46d4de1`.
-- Application theme
-  - Currently being created to be included in LabPlot's source as well.,
+- Application theme (How the app itself looks)
   - LabPlot on Linux systems with KDE Desktop attempts to use the OS installed application themes, so manual installation might be neccessary, if you don't want to install Dracula OS wide.
 - Colormap (Used only for spreadsheet highlighting at the moment).
-  - Pending review and likely won't be included in LabPlots source, so this part needs to be installed manually if required.
+
+All of them are included in Labplot' source and can be used without manual installation starting with version `2.11.0`.
 
 #### Installing manually
 
